@@ -38,6 +38,10 @@ Atualmente sou estudante pela Universidade de São Paulo e trabalho desenvolvend
 
 - Typescript
 - Java
+
+## Tecnologias que eu tô querendo aprender:
+
+- Vue
 - Strapi
 - Redis
 
