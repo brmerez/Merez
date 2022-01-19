@@ -56,3 +56,5 @@ Me encantei (e, sendo sincero, me encanto até hoje) com as possibilidades prati
 
 ***Gosto de pensar no processo de desenvolvimento como um quebra-cabeça que se revela e multiplica conforme é resolvido: sempre há algo que pode ser melhorado, outras maneiras de fazer uma mesma coisa -- as possibilidades são imensas.***
 
+![eunvr2](https://web.archive.org/web/20090829065250im_/http://www.geocities.com/sarah_jane_4max/crewstrike.gif)
+
