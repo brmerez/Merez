@@ -1,3 +1,5 @@
+![eunvr](https://web.archive.org/web/20090829090504/http://www.geocities.com/simontransit2003/hangingpirate.gif)
+
 # Merez, com 'z'
 
 Opa, tudo bem? 👋
@@ -5,7 +7,6 @@ Opa, tudo bem? 👋
 Meu nome é Bruno Merez *(com Z, não é Mendes!)*, tenho 21 anos e sou programador web fullstack, historiador, apreciador de João Gilberto e sofridamente corinthiano morando em São Paulo - SP.
 
 Atualmente sou estudante pela Universidade de São Paulo e trabalho desenvolvendo desenvolvendo aplicações web, dentre outras soluções, na empresa Assaz Orgânica.
-
 
 ## Tecnologias que eu gosto/domino:
 
