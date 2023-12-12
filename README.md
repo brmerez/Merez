@@ -4,27 +4,28 @@
 
 Opa, tudo bem? 👋
 
-Meu nome é Bruno Merez *(com Z, não é Mendes!)*, tenho 21 anos e sou programador web fullstack, historiador, apreciador de João Gilberto e sofridamente corinthiano morando em São Paulo - SP.
+Meu nome é Bruno Merez *(com Z, não é Mendes!)*, tenho 23 anos e sou desenvolvedor backend, apreciador de João Gilberto e sofridamente corinthiano morando em São Paulo - SP.
 
-Atualmente sou estudante pela Universidade de São Paulo e trabalho desenvolvendo desenvolvendo aplicações web, dentre outras soluções, na empresa Assaz Orgânica.
+Atualmente sou estudante pela Universidade de São Paulo e trabalho em tempo integral como desenvolvedor backend Java.
 
 ## Tecnologias que eu gosto/domino:
 
+- Rust
+- Java
+  - Ant
+  - Maven
+  - Spring
 - Python
   - Django
   - Flask
   - Scraping com Beautifulsoup
   - Manipulação de planilhas de Excel com openpyxl, pandas e numpy
-- Javascript
-  - Node js
-  - Express js
-    - APIs REST
-  - Next js
+- Javascript / NodeJS
+  - ExpressJS
+  - NextJS
+  - Svelte / SvelteKit
   - React
-    - styled-components
-    - Biblioteca MaterialUI
-    - Context api
-  - React Native
+- Flutter / Dart
 - HTML / CSS
 - Bases de Dados
   - MongoDB
@@ -34,27 +35,16 @@ Atualmente sou estudante pela Universidade de São Paulo e trabalho desenvolvend
   - Git / gitflow
   - Amazon AWS
   - Bash / Linux
+  - JBoss
 
 ## Tecnologias que eu estou aprendendo atualmente:
 
-- Typescript
-- Java
+- Rust
 
 ## Tecnologias que eu tô querendo aprender:
 
-- Vue
-- Strapi
+- Elixir
 - Redis
-
-## Como eu me meti a ser programador
-
-Sempre me entendi como uma pessoa de "humanas", porém dispertei meu interesse por desenvolvimento aprendendo a fazer modificações simples nos jogos que eu curto, principalmente o jogo de simulação histórica da Paradox como Europa Universalis IV e Victoria II.
-
-Olhando em retrospecto, consigo dizer que o que mais me atraiu na área de desenvolvimento foi descobrir que programar é, na minha concepção, uma atividade fundamentalmente **criativa**.
-
-Me encantei (e, sendo sincero, me encanto até hoje) com as possibilidades praticamente infinitas, a liberdade para utilizar ferramentas publicamente disponíveis para construir qualquer ideia que venha à cabeça.
-
-***Gosto de pensar no processo de desenvolvimento como um quebra-cabeça que se revela e multiplica conforme é resolvido: sempre há algo que pode ser melhorado, outras maneiras de fazer uma mesma coisa -- as possibilidades são imensas.***
 
 ![eunvr2](https://web.archive.org/web/20090829065250im_/http://www.geocities.com/sarah_jane_4max/crewstrike.gif)
 
